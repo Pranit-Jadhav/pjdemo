@@ -1,4 +1,4 @@
 # pjdemo
 first Git Repo
 <br>
-Author - Pranit.
+Author - Pranit Jadhav.
